@@ -4,3 +4,4 @@
 3. Rock Paper Scissor 15
 4. Simple Banking System
 5. Simple Chatty Bot
+6. Tic Tac Toe
